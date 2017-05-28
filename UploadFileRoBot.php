@@ -5,7 +5,7 @@
      @oYSoF
      */
 
-     define('BOT_TOKEN','TOKEN');
+     define('BOT_TOKEN','332987003:AAE32beMm5Th0P-dujEZ2BIJsv8408nLosw');
      $update = json_decode(file_get_contents('php://input'));
      $chat_id = $update->message->chat->id;
      $msg_id = $update->message->message_id;
