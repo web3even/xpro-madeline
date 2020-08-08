@@ -2,6 +2,7 @@
 
 <b> Installing</b>
 
+• <s>Install & Update pkg...</s>
 <code>pkg update && pkg upgrade</code>
 
 <code>pkg install python2</code>
@@ -18,4 +19,5 @@
 
 
 [سازنده](https://telegram.me/ApkLearnBot)
+<br>
 [کانال](https://telegram.me/ApkLearn)
