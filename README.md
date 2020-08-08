@@ -2,7 +2,7 @@
 
 <b> Installing</b>
 
-• <s>Install & Update pkg...</s>
+• <smal>Install & Update pkg...</smal> <br>
 <code>pkg update && pkg upgrade</code>
 
 <code>pkg install python2</code>
